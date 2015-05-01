@@ -62,6 +62,7 @@ sandbox {
   border: 0;
   border-left: 1px solid #DDC;
   background: white;
+  cursor: pointer;
 }
 
 .controls button:first-of-type {
